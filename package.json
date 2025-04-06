@@ -1,0 +1,4 @@
+"dependencies": {
+  "react-scripts": "^5.0.1",  // or the latest version
+  ...
+}
